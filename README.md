@@ -12,7 +12,8 @@ This repository contains material I prepared to teach front-end web development 
 - Brain teasers and memes should be used to invoke focus and engagement
 
 ## 📚 Course Syllabus
-The course consists of two main parts: classical web development and web development frameworks.
+The course consists of two main parts: classical web development and web development frameworks covered over six intensive sessions (~4 hours each). You will need the [Polyglot Notebooks](https://code.visualstudio.com/docs/languages/polyglot) VSCode extension to run notebooks with JavaScript. Beware that cells are independent.
+
 ### 📰 Classical Web Development
 <table>
   <tr>
@@ -116,3 +117,5 @@ The course consists of two main parts: classical web development and web develop
 </table>
 
 
+#### Credits
+Thanks to my colleague Eng. Mohamed Fathy for assisting in making and grading assignments for the course and helping during the sessions when needed.
