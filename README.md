@@ -116,6 +116,7 @@ The course consists of two main parts: classical web development and web develop
   <tr><td> Incremental Todo App Example </td></tr>
 </table>
 
+Weekly assignments are not shown here and are available upon request.
 
 #### Credits
 Thanks to my colleague Eng. Mohamed Fathy for assisting in making and grading assignments for the course and helping during the sessions when needed.
